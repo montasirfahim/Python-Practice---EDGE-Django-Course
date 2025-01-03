@@ -11,3 +11,10 @@ This repository serves as a collection of Python programs and Django exercises t
 - Django project setups and app development.
 
 ---
+```python
+def printMessage(adj):
+  adj = "fantastic!"
+  print("Python is", adj)
+  
+adj = "nice"
+printMessage(adj)
